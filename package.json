@@ -1,6 +1,7 @@
 {
   "name": "creative-powerup",
   "version": "0.1.11",
+  "packageManager": "pnpm@10.26.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
